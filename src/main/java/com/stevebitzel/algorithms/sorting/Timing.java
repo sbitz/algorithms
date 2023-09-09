@@ -1,4 +1,4 @@
-package com.stevebitzel;
+package com.stevebitzel.algorithms.sorting;
 
 import java.util.ArrayList;
 import java.util.Collections;

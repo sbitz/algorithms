@@ -1,7 +1,9 @@
+package com.stevebitzel.algorithms.sorting;
+
 import java.util.*;
 
-import com.stevebitzel.MergeSort;
-import com.stevebitzel.MergeSortSingleSwap;
+import com.stevebitzel.algorithms.sorting.MergeSort;
+import com.stevebitzel.algorithms.sorting.MergeSortSingleSwap;
 import org.junit.jupiter.api.Test;
 
 public class TestMergeSortSingleSwap {
